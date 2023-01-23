@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe App - Alvin Ta (217896424)</string>
+
+    <string-array name="XorO">
+        <item>Player X</item>
+        <item>Player O</item>
+    </string-array>
+</resources>
